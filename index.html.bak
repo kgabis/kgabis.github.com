@@ -10,18 +10,13 @@
 <font face="courier new" size="6" style="text-shadow: 1 2px 5px #ccc, 2 2px 2px #777; color:#0197fd">
 <p align="center">
 <b>
-expression evaluator</b></br></font>
-<object width="640" height="480" 
-    data="data:application/x-silverlight-2," 
-    type="application/x-silverlight-2" >
-    <param name="source" value="ExpressionEvaluatorSilverlight.xap" />
-</object></br>
+Krzysztof Gabis @ github</b></br></font>
+</p>
 
 <font face="courier new" size="2" style="text-shadow: 1 1px 0px #ccc, 1 1px 0px #777">
-<a href="http://student.agh.edu.pl/~gabis/expeva/Expression%20Evaluator.exe">download desktop version</a>  <br>
-2011 Krzysztof Gabis</br>
+
 <font face="courier new" size="3"><br>
-<a href="http://student.agh.edu.pl/~gabis/">HOME</a></p>
+<a href="http://student.agh.edu.pl/~gabis/">HOME</a>
 
 </body>
 </html>
